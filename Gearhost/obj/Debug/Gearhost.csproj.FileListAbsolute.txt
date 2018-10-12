@@ -1,0 +1,10 @@
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\bin\Debug\Gearhost.exe.config
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\bin\Debug\Gearhost.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\bin\Debug\Gearhost.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\obj\Debug\Gearhost.csprojResolveAssemblyReference.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\obj\Debug\Gearhost.Form1.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\obj\Debug\Gearhost.Properties.Resources.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\obj\Debug\Gearhost.csproj.GenerateResource.Cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\obj\Debug\Gearhost.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\obj\Debug\Gearhost.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Gearhost\Gearhost\obj\Debug\Gearhost.pdb
