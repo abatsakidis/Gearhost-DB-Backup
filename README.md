@@ -8,8 +8,9 @@ GearHost (gearhost.com) offline database backup utility
 * Ensure you have API key at https://my.gearhost.com/ApiConfig
 * Use your **APIKEY**. 
 * Select your database for backuping. 
-![Alt text](/Screenshot/screen.jpg?raw=true "GearHost database backup utility")
 * Click **Backup Database** button
+
+![Alt text](/Screenshot/screen.jpg?raw=true "GearHost database backup utility")
 
 ## Tested on ##
 
