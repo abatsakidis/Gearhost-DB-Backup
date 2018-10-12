@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/v9820000j3m84b8t?svg=true)](https://ci.appveyor.com/project/abatsakidis/gearhost-db-backup)
+[![Build Status](https://travis-ci.org/abatsakidis/Gearhost-DB-Backup.svg?branch=master)](https://travis-ci.org/abatsakidis/Gearhost-DB-Backup)
 
 ## Description ##
 
