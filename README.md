@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v9820000j3m84b8t?svg=true)](https://ci.appveyor.com/project/abatsakidis/gearhost-db-backup)
+
 ## Description ##
 
 GearHost (gearhost.com) offline database backup utility 
